@@ -16,3 +16,4 @@ La optimización de los algoritmos con multiples hiperparámetros se desarrolla 
 
 El algoritmo con mejor desempeño es el de filtro colaborativo basado en modelo, de mínimos cuadrados alternantes (ALS). basado en el algoritmo presentado en el artículo [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf). El procedimiento iterativo para la resolución de la función de costo es desarrollado en el artículo [Applications of the Conjugate Gradient Method for Implicit Feedback Collaborative Filtering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.6473&rep=rep1&type=pdf).
 
+El informe en formato PDF describe el proceso de toma de desiciones y presenta los resultados finales obtenidos
