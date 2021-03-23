@@ -1,4 +1,4 @@
-## Proyecto4_Acamica
+## Profundización del sistema de recomendación para la plataforma de juegos Steam
 
 El objetivo de este proyecto es profundizar en el proyecto 3 para el desarrollo de un sistema de recomendación para la plataforma de juegos Steam. Este fué desarrollado como la cuarta entrega del curso de Data Science de la plataforma de enseñanza [Acamica](https://www.acamica.com/)
 
