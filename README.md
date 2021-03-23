@@ -1,4 +1,4 @@
-## Ssistema de recomendación para la plataforma de juegos Steam
+## Sistema de recomendación para la plataforma de juegos Steam
 
 El objetivo de este proyecto es desarrollar un sistema de recomendación para la plataforma de juegos Steam. Este fué desarrollado como la cuarta entrega del curso de Data Science de la plataforma de enseñanza [Acamica](https://www.acamica.com/)
 
