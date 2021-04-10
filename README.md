@@ -8,7 +8,7 @@ Es desarrollado en lenguaje Python y utiliza las librerias Numpy, Scipy, Pandas,
 
 Este proyecto consta de 2 secciones
 
-A. Ánálisis exploratorio ypreprocesamiento de los datos suministrados
+A. Ánálisis exploratorio y preprocesamiento de los datos suministrados
 
 B. Formulación y desarrollo de diferentes estrategias de sistemas de recomendación, entre las que se encuentran dos algoritmos de filtro colaborativo basado en memoria, un algoritmo de filtro colaborativo basado en modelo y un algoritmo basado en contenidos. comparación de los algoritmos por medio de la métrica precisión media promedio [MAP](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Mean_average_precision).
 
